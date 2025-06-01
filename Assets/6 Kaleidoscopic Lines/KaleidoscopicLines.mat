@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KaleidoscopicLines
+  m_Shader: {fileID: 4800000, guid: 43e2d2237a64f421cb4fbe7c5c48d1d3, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _ColMultiplier: 0.56
+    - _ExpMultiplier: 5
+    - _Iterations: 4
+    - _PowExponent: 1.2
+    - _SinScale: 8
+    - _TimeOffset: 77.92211
+    - _TimeScale: 0.05
+    - _UVExponent: 0.1
+    - _UVMul: 16
+    - _UVScale: 1.5
+    - _ZScale: 1
+    m_Colors:
+    - _ColorAdjust1: {r: 0.09411766, g: 0.058823533, b: 0.3921569, a: 1}
+    - _ColorAdjust2: {r: 0.7176471, g: 0.19607845, b: 0.5294118, a: 1}
+    - _ColorAdjust3: {r: 0.93725497, g: 0.93725497, b: 0.14901961, a: 1}
+    - _PaletteA: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _PaletteB: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _PaletteC: {r: 1, g: 1, b: 1, a: 1}
+    - _PaletteD: {r: 0.26299998, g: 0.41599998, b: 0.557, a: 1}
+    - _PowExponent: {r: 2.09, g: 4.28, b: 1.74, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

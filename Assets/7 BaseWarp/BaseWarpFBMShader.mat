@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaseWarpFBMShader
+  m_Shader: {fileID: 4800000, guid: 8784061cf18c14bbf81d1eb289f351ea, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Brightness: 1
+    - _FBM_Scale: 3
+    - _FBM_Weight1: 0.5
+    - _FBM_Weight2: 0.25
+    - _FBM_Weight3: 0.125
+    - _FBM_Weight4: 0.0625
+    - _FBM_Weight5: 0.015625
+    - _Rotation: 0
+    - _TimeSpeed: 1
+    m_Colors: []
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
