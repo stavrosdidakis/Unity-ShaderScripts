@@ -4,25 +4,6 @@ These shaders highlight a variety of techniques—from Voronoi-based distortions
 
 ---
 
-## ✨ Contents
-- [Unity-ShaderScripts](#unity-shaderscripts)
-  - [✨ Contents](#-contents)
-  - [🎨 Shaders](#-shaders)
-    - [Voronoi Effect](#voronoi-effect)
-    - [Moving Lights](#moving-lights)
-    - [Ionize](#ionize)
-    - [Gyro Fractal Field](#gyro-fractal-field)
-    - [Noise Rings](#noise-rings)
-    - [Kaleidoscopic Lines](#kaleidoscopic-lines)
-    - [Base Warp](#base-warp)
-    - [Fractals](#fractals)
-    - [Raymarching](#raymarching)
-    - [Dynamic Flow](#dynamic-flow)
-  - [📝 License](#-license)
-  - [📦 Contributing](#-contributing)
-
----
-
 ## 🎨 Shaders
 
 ### Voronoi Effect
